@@ -3,7 +3,7 @@ Sprint 01
 Curso: Ciências da Computação – 1º Ano
 Turma:1CCA
 Equipe: equipe1 
-Integrantes: Fernando Bonfim, Anna Cecilia, Arthur Osay, Guilherme Henrique e Caio Marques
+Integrantes: Fernando Bonfim, Anna Cecilia, Arthur Carvalho, Guilherme Henrique e Caio Marques
 Desafio: Sistema Inteligente de Controle de Energia Residencial
 
 Objetivo da Sprint
